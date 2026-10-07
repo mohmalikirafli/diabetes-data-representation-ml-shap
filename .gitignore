@@ -1,0 +1,14 @@
+# Local data (not distributed)
+03_Data/*
+!03_Data/README.md
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
